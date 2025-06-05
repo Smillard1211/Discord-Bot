@@ -10,7 +10,7 @@ some of those commands are:
 
 More info for the different commands can be seen in the code as comments above each method.
 
-**To Run the code** 
+**To Run the code**
 
 change the token at the bottom to the provided token from Discord's Api
 change the other 'ID' parts of the code to the IDs needed for the server(this will be changed later)
